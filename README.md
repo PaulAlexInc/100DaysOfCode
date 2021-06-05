@@ -2,7 +2,7 @@
 #100DaysOfCode
 
 Projects
-Day1  - Band Name Generator
+Day1  - Band Name Generator<br/>
 Day2  - Tip calculator
 Day3  - Treasure Island
 Day4  - Rock Paper Scissors
