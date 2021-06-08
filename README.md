@@ -17,4 +17,4 @@ My Projects
 * Day14 - Higher Lower Game
 * Day15 - Coffee Machine
 * Day16 - Coffee Machine with OOP
-* Day17 - QuizGame
+* Day17 - QuizGame using oop
