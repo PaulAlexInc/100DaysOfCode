@@ -18,3 +18,4 @@ My Projects
 * Day15 - Coffee Machine
 * Day16 - Coffee Machine with OOP
 * Day17 - QuizGame using oop
+* Day18 - Hirst Painting using Turtle Graphics
