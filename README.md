@@ -20,3 +20,4 @@ My Projects
 * Day17 - QuizGame using oop
 * Day18 - Hirst Painting using Turtle Graphics
 * Day19 - Turtle racing game
+* Day 20 & 21 - Snake Game
